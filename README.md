@@ -20,10 +20,10 @@ This project applies Support Vector Machines (SVM) for binary classification on 
 
 ## 📂 Dataset(s)
 - **Breast Cancer Dataset** (`breast-cancer.csv`)
-  Weuse the [Breast Cancer Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
+  We use the [Breast Cancer Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
 
 ## 🏃 How to Run  
 1. Clone this repository:  
    ```bash
    git clone git clone git@github.com:Elevate-Labs-Intern/AIML-Task-7.git
-- Import the .ipynb in Kaggle and add the House Price Prediction dataset as input
+- Import the .ipynb in Kaggle and add the Breast Cancer dataset as input
